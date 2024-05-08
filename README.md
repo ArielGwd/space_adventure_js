@@ -8,4 +8,4 @@ Space Adventure adalah sebuah game bertema space berbasis web, hindarilah meteor
 - tanda panah bawah => untuk mundur
 
 ## Demo
-Bookshelf Apps - https://arielwrdna-bookshelf.netlify.app
+Space Adventure - arielgwd.github.io/space_adventure_js/
